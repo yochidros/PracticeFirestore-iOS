@@ -1,0 +1,6 @@
+framework module Pods_PracticeFireStore_iOS {
+  umbrella header "Pods-PracticeFireStore-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
