@@ -1,0 +1,10 @@
+.DS_Store
+
+# Xcode
+build/*
+!default.pbxuser
+!default.xcworkspace
+xcuserdate
+
+#cocoaPods
+Pods/*
